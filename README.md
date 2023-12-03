@@ -1,3 +1,3 @@
 # S5_Statki
-Internetowa gra w statki /p
+Internetowa gra w statki  
 zaliczenie na przedmiot "Programowanie w internecie"
